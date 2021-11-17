@@ -2,7 +2,7 @@
 """
 Created on Sun Jun 10 21:35:08 2018
 
-@author: Manoj Kumar Singh
+@author: Manoj Kumar Singh manoj@wustl.edu
 """
 ## Two pound sign (##) indicate comment lines.
 ## One pound sign (#) indicates code lines. Code lines can be made active by removing
